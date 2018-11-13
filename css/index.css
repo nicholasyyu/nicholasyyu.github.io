@@ -1,0 +1,24 @@
+body {
+    background-image: url("../public/apartment-apple-business-245032.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: auto;
+}
+
+.container {
+	background: rgba(255, 255, 255, .8);;
+	display: flex;
+}
+
+.profile {
+	width: 20%;
+	height: 100%;
+	margin: 20px;
+}
+
+.about {
+	width: 80%;
+	height: 100%;
+	margin: 50px;
+}
