@@ -11,14 +11,16 @@ body {
 	display: flex;
 }
 
-.profile {
+.profile-container {
 	width: 20%;
 	height: 100%;
 	margin: 20px;
 }
 
-.about {
+.about-container {
 	width: 80%;
 	height: 100%;
 	margin: 50px;
+	display: flex;
+  	flex-direction: column;
 }
